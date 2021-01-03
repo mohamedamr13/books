@@ -1,0 +1,17 @@
+body {
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+h1 {
+    color: white;
+    text-align: center;
+    -webkit-text-stroke: 1px blue;
+}
+.cont {
+    position:relative;
+    left:600px;
+    top:50px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+}
